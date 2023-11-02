@@ -1,0 +1,16 @@
+.btn {
+  cursor: pointer;
+  width: 80px;
+  height: 25px;
+  border-radius: 20px;
+}
+.btn_dark {
+  background: #597e89;
+  color: white;
+  border: none;
+}
+.btn_light {
+  background: #b7b7b7;
+  color: white;
+  border: 1px solid #333;
+}/*# sourceMappingURL=button.module.css.map */

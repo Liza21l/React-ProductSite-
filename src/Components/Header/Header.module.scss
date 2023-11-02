@@ -1,0 +1,28 @@
+.header{
+width: 100%;
+height: 100px;
+background: rgba(255, 255, 255, 0.14);
+&_logoText{
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 85px;
+    font-size: 25px;
+    color: white;
+}
+}
+.btnBlock{
+    margin-right: 25px;
+    margin-top: -15px;
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 15px;
+ }
+.navBar{
+    cursor: pointer;
+    display: flex;
+    column-gap: 15px;
+    justify-content: center;
+    color: rgb(152, 176, 213);
+    margin-top: -50px;
+    font-size: 20px;
+}

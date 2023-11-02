@@ -1,0 +1,35 @@
+.title {
+  margin: 85px 82px;
+  width: 336px;
+  height: 90px;
+  color: #000;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.title_text {
+  margin: -80px 82px;
+  width: 472px;
+  height: 147px;
+  color: #756C6C;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.btnBlock {
+  margin: 25px 82px;
+}
+.btnBlock_create {
+  color: white;
+  font-size: 15px;
+  border: none;
+  width: 196px;
+  height: 54px;
+  border-radius: 2px;
+  background: rgba(54, 176, 147, 0.76);
+}/*# sourceMappingURL=main.module.css.map */

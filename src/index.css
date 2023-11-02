@@ -1,0 +1,15 @@
+body {
+  background: url(https://s3-alpha-sig.figma.com/img/d87f/3a15/1a122959a18b743305934c5a2c3944fe?Expires=1698019200&Signature=JR1epvisRa0W-n7ZTnkrpnMV6CW2KF0AZmnMxx5y6n1ebXNpujsJGhwfLiYdbRN0Ny7XiBe1sUyCrmJ9Ux7Z4oOrU8ouFfTr69H7k2s6mqbkJfOw6FYjvlvSEzdlyQnCa7Y9~hodGqI3fpyEkleJzp4-MqHyle4DIkWtlAnUKTXGObZSm1zCK7sZQspBhKWKAKJ651Y1AVr~t65jX60E12~xtV2jAygYXVqzs2gC93uG8Fw1~hNL7iJ1nlEKBfsrzbWGv9qVagY~R4f2PoflzevJ5hxfhGfAPnfQdQBgFGhSopNEMiOFbneatimrRvZX25~AcnQC6cyNeomajOwctw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-size: cover;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

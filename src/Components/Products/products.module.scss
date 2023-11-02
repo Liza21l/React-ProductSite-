@@ -1,0 +1,37 @@
+.Name{
+    color: white;
+    text-align: center;
+    &_price{
+        margin-left: 25px;
+        font-size: 20px;
+        color: rgb(168, 233, 136);
+    }
+}
+.products{
+    display: flex;
+    margin-top: 200px;
+    justify-content: center;
+    column-gap: 35px;
+    &_block{
+        width: 249px;
+        height: 387px;
+        border-radius: 15px;
+        background: rgba(255, 255, 255, 0.14);
+    }
+}
+.btnAdd{
+    margin-left: 25px;
+    border: none;
+    width: 172px;
+    height: 34px;
+    border-radius: 5px;
+    background: #6E57AF;
+    color: #FFF;
+    cursor: pointer;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
